@@ -1,4 +1,4 @@
-## specifications
+## Specifications
 #An approach to producing effective design and technical specifications
 
 Effective specification documents can make the development process efficient and effective.
