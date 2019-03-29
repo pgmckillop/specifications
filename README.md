@@ -1,5 +1,5 @@
 ## Specifications
-#An approach to producing effective design and technical specifications
+An approach to producing effective design and technical specifications
 
 Effective specification documents can make the development process efficient and effective.
 Before any code is created, you should have a clear idea of what has to be built.
